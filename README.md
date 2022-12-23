@@ -1,2 +1,1 @@
-# Python-Selenium-Allure
-Автотесты Python + Selenium + Allure
+Проект для выполнения домашнего задания.
